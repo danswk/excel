@@ -1,1 +1,1 @@
-- Excel projects focused on financial mathematics
+Excel projects focused on financial mathematics
